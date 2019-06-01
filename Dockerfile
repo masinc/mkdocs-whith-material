@@ -5,3 +5,5 @@ MAINTAINER masinc
 RUN \
   pip install mkdocs mkdocs-material
 
+CMD ["mkdocs"]
+
